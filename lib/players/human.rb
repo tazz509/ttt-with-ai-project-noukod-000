@@ -5,4 +5,5 @@ module Players
     def move board
       board = gets.strip
     end
+    
   end
